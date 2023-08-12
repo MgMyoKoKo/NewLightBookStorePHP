@@ -1,0 +1,25 @@
+/*
+Custom Css
+*/
+  .navbar .nav-item:hover .dropdown-menu {
+      display: block;
+  }
+
+  .username{
+    text-align: center;
+    font-weight: 700;
+    color: darkblue;
+  }
+
+    .navbar-nav {
+      margin-right: auto !important;
+    }
+  
+    #welcome{
+      padding-right: 0.5rem !important;
+    }
+    
+    #accmenu{
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
