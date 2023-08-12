@@ -1,0 +1,14 @@
+{
+    "name": "myokoko/newlightbookstore",
+    "description": "onlinebookstore",
+    "type": "project",
+    "license": "myokoko",
+    "authors": [
+        {
+            "name": "Myo Ko Ko"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
